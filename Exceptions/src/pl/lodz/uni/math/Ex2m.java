@@ -7,7 +7,7 @@ public class Ex2m {
 	public static void Idk(int index) throws Ex2{
 		if(index >= 5)
 		{
-			throw new Ex2("Za du¿o!");
+			throw new Ex2("Za du¿y indeks!");
 		}
 	}
 	public static void main(String[] args) {
